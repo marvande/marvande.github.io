@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'Activism'
-      url: '/activism/'
+      url: '/activism'
     - title: 'About'
       url: '/about'
 
