@@ -5,7 +5,7 @@ description: Master Student in Data Science at the Swiss Institute of Technology
 featured_image: /images/looking.jpeg
 ---
 
-<img src="/images/portrait_sourire.jpg" alt="first" width="400"/>
+<img src="/images/portrait_sourire_.jpg" alt="first" width="400"/>
 
 
 I'm a student in Data Science with a background in Bioengineering passionate about big data and machine learning. 
