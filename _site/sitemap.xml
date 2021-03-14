@@ -2,15 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2021-03-14T13:46:47+01:00</lastmod>
+<lastmod>2021-03-14T16:12:35+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/activism</loc>
+<lastmod>2021-03-14T16:12:35+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
-<lastmod>2021-03-14T13:46:47+01:00</lastmod>
+<lastmod>2021-03-14T16:12:35+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2021-03-14T13:46:47+01:00</lastmod>
+<lastmod>2021-03-14T16:12:35+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/demo-post</loc>
