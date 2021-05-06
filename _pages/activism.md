@@ -27,7 +27,9 @@ To learn more about it, here are some of the places our campaign was mentioned:
 * Article in [Le Matin](https://www.lematin.ch/story/epfl-des-etudiantes-denoncent-des-agressions-et-un-sexisme-latent-730712090642)
 * Article in [24heures](https://www.24heures.ch/des-etudiantes-denoncent-des-agressions-et-un-sexisme-latent-730712090642)
 * Segment on [RTS Info](https://www.rts.ch/info/suisse/11793038-des-etudiants-de-lepfl-denoncent-des-cas-de-harcelement-et-de-sexisme.html)
+* EPFL portrait [EPFL](https://actu.epfl.ch/news/we-are-women-we-re-here-to-stay-and-we-matter/)
+* Le Courrier [Courrier](https://lecourrier.ch/2021/04/11/plus-jamais-dagressions-a-lepfl/)
+
 [![Paye ton epfl](/images/rts.jpeg)](https://www.rts.ch/info/suisse/11793038-des-etudiants-de-lepfl-denoncent-des-cas-de-harcelement-et-de-sexisme.html)
 
 
-## In work:)
