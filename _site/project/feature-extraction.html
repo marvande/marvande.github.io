@@ -20,19 +20,25 @@
 
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/favicon.png">
-	<title>Projects – Marijn van der Meer</title>
-	<meta name="description" content="Journal is a stunning personal blog Jekyll theme with an image-focused design.">
+	<title>Deep learning based super resolution of medical images – Marijn van der Meer</title>
+	<meta name="description" content="Deep learning based super resolution of medical images
+
+">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Projects – Marijn van der Meer">
-	<meta name="twitter:description" content="Journal is a stunning personal blog Jekyll theme with an image-focused design.">
-	<meta name="twitter:image:src" content="http://localhost:4000/images/demo/demo-landscape.jpg">
+	<meta name="twitter:title" content="Deep learning based super resolution of medical images – Marijn van der Meer">
+	<meta name="twitter:description" content="Deep learning based super resolution of medical images
+
+">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/scan.png">
 
 	<!-- Facebook OpenGraph -->
-	<meta property="og:title" content="Projects – Marijn van der Meer" />
-	<meta property="og:description" content="Journal is a stunning personal blog Jekyll theme with an image-focused design." />
-	<meta property="og:image" content="http://localhost:4000/images/demo/demo-landscape.jpg" />
+	<meta property="og:title" content="Deep learning based super resolution of medical images – Marijn van der Meer" />
+	<meta property="og:description" content="Deep learning based super resolution of medical images
+
+" />
+	<meta property="og:image" content="http://localhost:4000/images/scan.png" />
 
 	
 	<!-- Font Embed Code -->
@@ -66,12 +72,12 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/projects/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/project/feature-extraction">
 
 
 	<header class="header">
 
-	<div class="header-image header-image--on" style="background-image: url(/images/demo/demo-landscape.jpg);"></div>
+	<div class="header-image header-image--on" style="background-image: url(/images/scan.png);"></div>
 	<div class="header-image"></div>
 
 	<div class="header-overlay"></div>
@@ -192,62 +198,30 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="Projects – Marijn van der Meer" data-image="/images/demo/demo-landscape.jpg">
+		<div class="page__content" data-page-title="Deep learning based super resolution of medical images – Marijn van der Meer" data-image="/images/scan.png">
 
 			<section class="intro">
 
 	<div class="wrap">
 
-		<h1>Projects</h1>
-		<p>What I've been working on lately.</p>
+		<h1>Deep learning based super resolution of medical images</h1>
+		<p>Project on super-resolution of medical images with the LTS4 and the CHUV at the Swiss Institute of Technology Lausanne.</p>
 
 	</div>
 
 </section>
 
-<section class="portfolio">
+<section class="single">
 
 	<div class="wrap">
 
-		
+		<h2 id="deep-learning-based-super-resolution-of-medical-images">Deep learning based super resolution of medical images</h2>
 
-		<div class="portfolio-item">
+<p>A comprehensive and extensive knowledge of the immunological landscape in tumour stroma can give critical information for the choice of type of immunotherapy and thus improve cancer patient survival. For melanoma, this information is mostly gathered from stroma scans. Frequently, however, stroma scans consist of low resolution image series with a few manually taken high resolution images. An important increase of information content could be obtained if all scans would have high resolution. The goal of this project was to improve low resolution melanoma scans to high resolutions, by a machine learning super resolution model. In order to test the performance of such model, we first produced artificial low resolution images by 2- and 4-fold downsampling and compression from a set of high resolution melonoma snapshots obtained from the CHUV hospital. The resulting low resolution versions were enhanced in a trained model, based on a U-Net architecture with a ResNet encoder and feature loss. This model up-scales low resolution images, taking into account their underlying texture and filling in the unknown details. The resulting high resolution versions were visually close to the ground truth medical images with 2-fold but not 4-fold down-sampled low resolution images. Image comparison measures were largely comparable between high resolution predicted and ground truth medical images, but less accurate for the 4-fold downsampled images. Our results show a very promising development of low to high resolution training. We suspect that results can be further improved by changing the model network’s architecture pretrained composites to be trained on data features closer to those observed on medical images.</p>
 
-			<a class="portfolio-item__link" href="/project/feature-extraction">
+<p>Link to the <a href="https://github.com/marvande/deep_learning_image_super_resolution/blob/master/final_report.pdf">paper</a>.
+Link to the <a href="https://github.com/marvande/deep_learning_image_super_resolution">code</a>.</p>
 
-				<div class="portfolio-item__image" style="background-image: url(/images/scan.png);"></div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">Deep learning based super resolution of medical images</h2>
-						<p class="portfolio-item__subtitle">Project on super-resolution of medical images with the LTS4 and the CHUV at the Swiss Institute of Technology Lausanne.</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		
-
-		<div class="portfolio-item">
-
-			<a class="portfolio-item__link" href="/project/deep-learning">
-
-				<div class="portfolio-item__image" style="background-image: url(/images/scan.png);"></div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">Deep learning based super resolution of medical images</h2>
-						<p class="portfolio-item__subtitle">Project on super-resolution of medical images with the LTS4 and the CHUV at the Swiss Institute of Technology Lausanne.</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		
 
 	</div>
 
